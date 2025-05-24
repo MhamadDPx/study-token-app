@@ -3,7 +3,7 @@ import { ethers } from 'ethers';
 import './App.css';
 
 // Replace with your deployed contract address
-const CONTRACT_ADDRESS = "YOUR_CONTRACT_ADDRESS_HERE";
+const CONTRACT_ADDRESS = "0x8cf71fa506287016702e63c14a32500e2122fd1b";
 
 // Contract ABI (simplified - get full ABI from Remix)
 const CONTRACT_ABI = [
